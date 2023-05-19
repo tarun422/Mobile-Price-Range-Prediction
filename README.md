@@ -54,5 +54,13 @@
 
 7. Conclusion
 
+# Conclusion
+
+* Decision tree , Random Forest , Gradient Boosting , XGBoost, SVM all are tends to overfit on traing data
+* Logistic Regression Gives Very Good Accuracy on Both Test data and Training Data
+* RAM is performing the most important role in price
+* Followed by RAM battery Capacity play a role in price prediction
+* Logistic Regression has no feature of feature_importance_ so try to catch the feature importance via xgboost
+
 ![62042908596540](https://github.com/tarun422/Mobile-Price-Range-Prediction/assets/81609862/ba33b33d-c6d0-4e9e-8f30-9e46f4f5e1b8)
 
