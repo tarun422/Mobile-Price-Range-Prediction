@@ -53,3 +53,6 @@
 6. Model Training
 
 7. Conclusion
+
+![62042908596540](https://github.com/tarun422/Mobile-Price-Range-Prediction/assets/81609862/ba33b33d-c6d0-4e9e-8f30-9e46f4f5e1b8)
+
